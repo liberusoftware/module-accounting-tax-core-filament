@@ -3,7 +3,7 @@
   "name": "accounting-tax-core-filament",
   "display_name": "Accounting Tax Core Filament",
   "description": "Filament 5 adapter for Accounting Tax Core.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "category": "presentation",
   "provider": "Liberu\\Accounting\\TaxCoreFilament\\TaxCoreFilamentServiceProvider",
   "requires": {
